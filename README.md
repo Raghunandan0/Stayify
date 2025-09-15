@@ -5,6 +5,14 @@
 [![Deployed on Render](https://img.shields.io/badge/Deployed-Render-purple)](https://your-render-url.com)  
 [![Mapbox](https://img.shields.io/badge/Maps-Mapbox-blue)](#-map-integration)  
 
+
+
+![GitHub stars](https://img.shields.io/github/stars/Raghunandan0/Stayify?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Raghunandan0/Stayify?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Raghunandan0/Stayify?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Raghunandan0/Stayify)
+![GitHub license](https://img.shields.io/github/license/Raghunandan0/Stayify)
+
 A **full-stack Airbnb-like platform** built with the **MERN stack** using **MVC architecture**.  
 It enables users to **browse, create, update, and delete property listings** with secure authentication, interactive maps, and **cloud-based media storage**.  
 
